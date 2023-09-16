@@ -1,5 +1,5 @@
 ![logo](https://github.com/Muzammilishtiaq/Muzammilishtiaq/blob/main/Black%20Blue%20Geometric%20Tips%20Business%20Linkedin%20Banner.png)
-    <h1 align="center">Hi 👋, I'm Muzammil ishtiaq</h1>
+    <h1 align="center">Hi 👋, I'm Muzammil Ishtiaq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Coding" width="400px" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammilishtiaq&label=Profile%20views&color=0e75b6&style=flat" alt="muzammilishtiaq" /> </p>
