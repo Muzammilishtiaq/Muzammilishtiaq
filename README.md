@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **muzammil@devdesks.com**
+- 📫 How to reach me **tomuzammilishtiaq@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
